@@ -9,7 +9,7 @@ This project aimed to optimize customer lifetime value (CLV) at NexaSat by lever
 
 ### Project Scope
 - Exploratory Data Analysis
-- Feature Enginerring
+- Feature Engineering
 - Segmentation
 - Segment Analysis
 - Strategy Formulation
